@@ -12,5 +12,6 @@
 
   - 📫 How to reach me **mher.goor@gmail.com**
   
- ![Uploading b842107e63c67d5674d17e0f576274fa_w200.gif…]()
+![Uploading b842107e63c67d5674d17e0f576274fa_w200.gif…]()
+
 
