@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mher</h1>
 <h3 align="center">A Gamedeveloper from Armenia <3</h3>
 
+<p align="right">
+<img src="https://i.pinimg.com/originals/34/c4/62/34c4620588b2d80acbec515f62f3f434.gif" align="right">
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mher-goorgenian-319954197/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mher-goorgenian-319954197/" height="30" width="40" /></a>
@@ -12,7 +16,6 @@
 
   - 📫 How to reach me **mher.goor@gmail.com**
   
--![Sample Gif](https://i.gifer.com/origin/b8/b842107e63c67d5674d17e0f576274fa_w200.gif)
 
 
 
