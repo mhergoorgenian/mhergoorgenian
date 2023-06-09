@@ -14,5 +14,5 @@
   
 -![Sample Gif](https://i.gifer.com/origin/b8/b842107e63c67d5674d17e0f576274fa_w200.gif)
 
-+<img src="https://i.gifer.com/origin/b8/b842107e63c67d5674d17e0f576274fa_w200.gif" width="200px">
+
 
