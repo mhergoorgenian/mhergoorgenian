@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mher</h1>
 <h3 align="center">A Gamedeveloper from Armenia <3</h3>
 
-- 🌱 I’m currently learning **Python,c#**
-
 - 📫 How to reach me **mher.goor@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
