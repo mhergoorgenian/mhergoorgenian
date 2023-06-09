@@ -12,8 +12,7 @@
 
   - 📫 How to reach me **mher.goor@gmail.com**
   
-![Uploading 34c4620588b2d80acbec515f62f3f434.gif]()
-![Portfolio Gif]([https://dev-to-uploads.s3.amazonaws.com/i/7xpbahfwejl9426olm9g.gif](https://i.pinimg.com/originals/34/c4/62/34c4620588b2d80acbec515f62f3f434.gif))
+-![Sample Gif](https://i.gifer.com/origin/b8/b842107e63c67d5674d17e0f576274fa_w200.gif)
 
-![Uploading mher.gif…]()
++<img src="https://i.gifer.com/origin/b8/b842107e63c67d5674d17e0f576274fa_w200.gif" width="200px">
 
