@@ -2,7 +2,7 @@
 <h3 align="center">A Gamedeveloper from Armenia <3</h3>
 
 <p align="right">
-<img src="https://i.pinimg.com/originals/34/c4/62/34c4620588b2d80acbec515f62f3f434.gif" align="right">
+<img src="https://i.gifer.com/origin/b8/b842107e63c67d5674d17e0f576274fa_w200.gif" align="right">
 </p>
 
 <h3 align="left">Connect with me:</h3>
