@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mher</h1>
-<h3 align="center">A Game Developer from Armenia <3</h3>
+<h3 align="center">A Game Developer <3</h3>
 
 <p align="right">
 <img src="https://i.gifer.com/origin/b8/b842107e63c67d5674d17e0f576274fa_w200.gif" align="right">
