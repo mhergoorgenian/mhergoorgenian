@@ -5,15 +5,12 @@
 <img src="https://i.gifer.com/origin/b8/b842107e63c67d5674d17e0f576274fa_w200.gif" align="right">
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mhergoorgenian&label=Profile%20views&color=0e75b6&style=flat" alt="mhergoorgenian" /> </p>
-
-
 
 - 📫 How to reach me **mher.goor@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/mher-goorgenian-319954197/" target="blank"><img align="center" src="[https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mher-goorgenian-319954197/" target="blank"><img align="center" src="https://i0.wp.com/openvisualfx.com/wp-content/uploads/2019/10/linkedin-icon-logo-png-transparent.png?fit=2400%2C2400&ssl=1" alt="" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/www.youtube.com/@mgmurloc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="www.youtube.com/@mgmurloc" height="30" width="40" /></a>
 <a href="https://discord.gg/loktar6285" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="loktar6285" height="30" width="40" /></a>
 </p>
