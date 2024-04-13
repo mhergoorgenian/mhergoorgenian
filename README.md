@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/mher-goorgenian-319954197/" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Fpng%2F18930587-linkedin-logo-png-linkedin-icon-transparent-png&psig=AOvVaw3kK7bVnq3dAMdz0HrVk1cu&ust=1713069947783000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLDLv_2wvoUDFQAAAAAdAAAAABAR" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mher-goorgenian-319954197/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/www.youtube.com/@mgmurloc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="www.youtube.com/@mgmurloc" height="30" width="40" /></a>
 <a href="https://discord.gg/loktar6285" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="loktar6285" height="30" width="40" /></a>
 </p>
